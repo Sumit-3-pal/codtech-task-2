@@ -1,4 +1,4 @@
-# Name-Sumit Kumar Pal 
+Name-Sumit Kumar Pal 
 Company-Codtech IT soultions 
 ID-CT04DF1862 
 Domain-C Programming 
